@@ -19,18 +19,18 @@ It was interesting to notice that in second question top five jobs in NYC are di
 
 Results for all cities shows:
 
-PROGRAMMER ANALYST | 43114
-SOFTWARE ENGINEER | 20500
-COMPUTER PROGRAMMER | 14950
-SYSTEMS ANALYST | 10196
-SOFTWARE DEVELOPER | 7337
+1. PROGRAMMER ANALYST | 43114
+2. SOFTWARE ENGINEER | 20500
+3. COMPUTER PROGRAMMER | 14950
+4. SYSTEMS ANALYST | 10196
+5. SOFTWARE DEVELOPER | 7337
 
 and Results for NYC:
 
-ASSOCIATE | 977
-ANALYST | 875
-SOFTWARE ENGINEER | 530
-VICE PRESIDENT | 377
-PROGRAMMER ANALYST | 374
+1. ASSOCIATE | 977
+2. ANALYST | 875
+3. SOFTWARE ENGINEER | 530
+4. VICE PRESIDENT | 377
+5. PROGRAMMER ANALYST | 374
 
 I presume that these resuts could occur because NYC is attracting more specialists in Business and Finance industries.    
